@@ -5,7 +5,7 @@ MirrorSync.
 
 ## Instalasi
 
-1. Unduh `MirrorSync-Setup-v1.2.0.exe` atau paket ZIP dari halaman Releases.
+1. Unduh `MirrorSync-Setup-v1.2.1.exe` atau paket ZIP dari halaman Releases.
 2. Cocokkan SHA-256 dengan `SHA256SUMS.txt`.
 3. Jalankan EXE. Jika Smart App Control memblokir EXE yang belum ditandatangani,
    extract ZIP lalu jalankan `Install-MirrorSync.cmd`.
