@@ -2,8 +2,8 @@
   "version": "1.2.1",
   "releasePage": "https://github.com/shyper21/local-android-mirror-releases/releases/tag/v1.2.1",
   "downloadUrl": "https://github.com/shyper21/local-android-mirror-releases/releases/download/v1.2.1/MirrorSync-Setup-v1.2.1.zip",
-  "sha256": "A01A3FCCBB77BFA9AFE6260B48032A7A19EE7CB3FD202F07BE9CAE9231D3F715",
+  "sha256": "F4F4C76C28E7C8C2E78E389D58ADE9AFE6AA04BAED8834249B11ABFA1C1F29C3",
   "installerUrl": "https://github.com/shyper21/local-android-mirror-releases/releases/download/v1.2.1/MirrorSync-Setup-v1.2.1.exe",
-  "installerSha256": "F8C475C7771A957C4DAC8692A87C09BE9A98B8CB2EA49B4BF88316BD9DBF7296",
+  "installerSha256": "014CE4A08D8BCECCE1CB0FB66FBB87959B8EFE87F7315C8A3DB72AA95475F12F",
   "publishedAt": "2026-06-15"
 }
